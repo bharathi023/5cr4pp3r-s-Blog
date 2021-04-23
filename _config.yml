@@ -1,5 +1,5 @@
 Name : 5cr4pp3r
 Description:  Cheers to a new beginning
 
-
+baseurl: "/posts"
 theme: jekyll-theme-hacker
